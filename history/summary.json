@@ -4,18 +4,19 @@
     "url": "https://ollama.ux.uis.no/status",
     "icon": "https://icons.duckduckgo.com/ip3/ollama.ux.uis.no.ico",
     "slug": "ollama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1368,
-    "timeDay": 1538,
-    "timeWeek": 1506,
-    "timeMonth": 1373,
-    "timeYear": 1368,
+    "time": 1363,
+    "timeDay": 1295,
+    "timeWeek": 1450,
+    "timeMonth": 1363,
+    "timeYear": 1363,
     "dailyMinutesDown": {
+      "2025-01-15": 0,
       "2024-11-24": 10
     }
   }
