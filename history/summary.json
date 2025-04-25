@@ -4,7 +4,7 @@
     "url": "https://ollama.ux.uis.no/status",
     "icon": "https://icons.duckduckgo.com/ip3/ollama.ux.uis.no.ico",
     "slug": "ollama",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1218,
     "timeYear": 1321,
     "dailyMinutesDown": {
+      "2025-04-25": 0,
       "2025-04-14": 13,
       "2025-04-07": 34,
       "2025-04-03": 7,
