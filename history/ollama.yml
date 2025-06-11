@@ -1,7 +1,7 @@
 url: https://ollama.ux.uis.no/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-11T06:59:46.887Z
+status: up
+code: 200
+responseTime: 1483
+lastUpdated: 2025-06-11T07:09:09.525Z
 startTime: 2024-11-19T14:16:25.485Z
 generator: Upptime <https://github.com/upptime/upptime>
