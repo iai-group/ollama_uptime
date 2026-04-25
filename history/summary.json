@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ollama.ux.uis.no.ico",
     "slug": "ollama",
     "status": "up",
-    "uptime": "93.23%",
+    "uptime": "93.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "90.62%",
     "time": 1330,
-    "timeDay": 932,
-    "timeWeek": 1249,
-    "timeMonth": 1346,
+    "timeDay": 1199,
+    "timeWeek": 1183,
+    "timeMonth": 1349,
     "timeYear": 1339,
     "dailyMinutesDown": {
       "2026-04-08": 34,
@@ -62,8 +62,7 @@
       "2025-05-07": 66,
       "2025-05-05": 9,
       "2025-05-03": 7,
-      "2025-04-30": 486,
-      "2025-04-25": 13
+      "2025-04-30": 486
     }
   }
 ]
